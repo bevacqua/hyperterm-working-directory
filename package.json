@@ -1,0 +1,17 @@
+{
+  "name": "hyperterm-working-directory",
+  "version": "0.1.0",
+  "description": "Adds a default working directory setting. Opens new tabs using that working directory.",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "cwd",
+    "working",
+    "directory"
+  ],
+  "author": "Nicolás Bevacqua <nico@ponyfoo.com> (https://ponyfoo.com)",
+  "license": "MIT",
+  "dependencies": {
+    "untildify": "3.0.2"
+  }
+}
