@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-working-directory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adds a default working directory setting. Opens new tabs using that working directory.",
   "main": "index.js",
   "keywords": [
