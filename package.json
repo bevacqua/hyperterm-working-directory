@@ -9,6 +9,10 @@
     "working",
     "directory"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bevacqua/hyperterm-working-directory.git"
+  },
   "author": "Nicolás Bevacqua <nico@ponyfoo.com> (https://ponyfoo.com)",
   "license": "MIT",
   "dependencies": {
