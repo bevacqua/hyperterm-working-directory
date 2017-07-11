@@ -6,7 +6,7 @@
 
 - Open `~/.hyperterm.js`
 - Add `hyperterm-working-directory` to the list of `plugins`
-- Set `config.workingDirectory` to something like `~/dev`
+- Set `config.workingDirectory` to something like `~/dev` (note that on Windows you will need to use \\ to escape the backslash. e.g. `C:\\Working\\Directory\\Example`)
 
 That's it. If `config.workingDirectory` is not set, a default value of `$HOME` will be used.
 
